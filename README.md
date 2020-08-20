@@ -7,8 +7,14 @@ I am passionate about designing, building, and deploying machine learning soluti
 
 ### Connect with me:
 
-[<img align="left" href="https://www.mayank-vadsola.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" href="https://www.linkedin.com/in/mayankvadsola/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+
+[website]: https://www.mayank-vadsola.com/
+[linkedin]: https://www.linkedin.com/in/mayankvadsola/
 
 
 <!--
