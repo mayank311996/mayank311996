@@ -23,7 +23,6 @@ I am passionate about designing, building, and deploying machine learning soluti
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
----
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank311996&layout=compact)](https://github.com/mayank311996)
