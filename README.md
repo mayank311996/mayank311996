@@ -5,6 +5,17 @@ I am passionate about designing, building, and deploying machine learning soluti
 
 <img src="https://github.com/mayank311996/mayank311996/blob/master/ml.jpeg">
 
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://medium.com/@mayankvadsola1996)
+
+---
+
 ### Connect with me:
 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
