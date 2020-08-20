@@ -10,6 +10,8 @@ I am passionate about designing, building, and deploying machine learning soluti
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I got the AWS Machine Learning Specialty Certification](https://medium.com/towards-artificial-intelligence/how-i-got-the-aws-machine-learning-specialty-certification-a1142f1376cd?source=rss-a87ac432a3ed------2)
+- [The math behind GANs (Generative Adversarial Networks)](https://towardsdatascience.com/the-math-behind-gans-generative-adversarial-networks-3828f3469d9c?source=rss-a87ac432a3ed------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@mayankvadsola1996)
