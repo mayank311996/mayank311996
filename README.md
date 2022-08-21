@@ -8,7 +8,6 @@ I am passionate about designing, building, and deploying data and machine learni
 Tools, Platforms, Languages, Libraries, etc. that I know and work with
 
 <img src="https://github.com/mayank311996/mayank311996/blob/master/tools.png">
----
 
 ### 📕 Latest Blog Posts
 
