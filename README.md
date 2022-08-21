@@ -3,7 +3,7 @@ I'm Mayank 👋🏾  👨‍💻 - A Data and ML Engineer (3x AWS Certified | 3x
 
 I am passionate about designing, building, and deploying data and machine learning solutions as end-to-end pipelines/products 🎩
 
-<img src="https://github.com/mayank311996/mayank311996/blob/master/data.jpeg">
+<img src="https://github.com/mayank311996/mayank311996/blob/master/data.png">
 
 ---
 
