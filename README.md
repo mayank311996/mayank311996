@@ -1,9 +1,9 @@
 ### Hi there 👋
-I'm Mayank 👋🏾  👨‍💻 - A Machine Learning Engineer (AWS certified Machine Learning Specialist) 
+I'm Mayank 👋🏾  👨‍💻 - A Data and ML Engineer (3x AWS Certified | 3x GCP Certified) 
 
-I am passionate about designing, building, and deploying machine learning solutions as an end to end AI products 🎩
+I am passionate about designing, building, and deploying data and machine learning solutions as end-to-end pipelines/products 🎩
 
-<img src="https://github.com/mayank311996/mayank311996/blob/master/ml.jpeg">
+<img src="https://github.com/mayank311996/mayank311996/blob/master/data.jpeg">
 
 ---
 
