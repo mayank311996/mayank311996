@@ -24,7 +24,7 @@ I am passionate about designing, building, and deploying data and machine learni
 
 ---
 
-[![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank311996)](https://github.com/anuraghazra/github-readme-stats)
+[![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank311996&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
